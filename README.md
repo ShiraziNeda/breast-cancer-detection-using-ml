@@ -10,13 +10,14 @@ Data preprocessing (splitting, normalization).
 
 Training and testing of various classification models:
 
-Naive Bayes
-K-Nearest Neighbors (KNN)
-Decision Tree
-Random Forest
-Support Vector Machine (SVM)
-Logistic Regression
+Naive Bayes,
+K-Nearest Neighbors (KNN),
+Decision Tree,
+Random Forest,
+Support Vector Machine (SVM),
+Logistic Regression,
 Artificial Neural Network (ANN)
+
 Performance metrics: Accuracy, Precision, Recall.
 Visual comparison of model performances.
 
